@@ -3,7 +3,7 @@
 This is an authentication app built with Express and MongoDB.
 
 # Installation
-1. Clone this repository: git clone https://github.com/ibrahimabdalrhman>/User-Authentication-and-Session-Management-with-Express-MongoDB.git
+1. Clone this repository: git clone https://github.com/ibrahimabdalrhman/User-Authentication-and-Session-Management-with-Express-MongoDB.git
 2. Install dependencies: npm install
 3. Set the following environment variables: MONGO_URI (MongoDB connection string), SESSION_SECRET (a secret string for session management), and EMAIL_USER (the email address to send welcome emails from)
 4. Run the app: npm start
