@@ -13,7 +13,7 @@ This is an authentication app built with Express and MongoDB.
 [POST /auth/signup]
 Creates a new user account. Requires a JSON body with the following fields:
 
--*username (required): the username for the new account.
+- username (required): the username for the new account.
 - email (required): the email address for the new account.
 - password (required): the password for the new account.
 - confirmPassword (required): must match the password field.
